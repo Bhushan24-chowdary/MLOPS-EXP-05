@@ -1,5 +1,0 @@
-outs:
-- md5: d16824ce43513001dbcf1e4d367b463e
-  size: 65843
-  hash: md5
-  path: sales_amount_model.pkl

@@ -1,5 +1,0 @@
-outs:
-- md5: af9b13e256499af8da671d662b483101
-  size: 538
-  hash: md5
-  path: sales_processed.csv

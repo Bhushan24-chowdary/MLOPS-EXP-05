@@ -1,28 +1,8 @@
-# Python
+
 __pycache__/
-*.pyc
-
-# Colab
-.config/
-sample_data/
-
-# MLflow
-mlruns/
-mlflow.db
-
-# DVC
-.dvc/cache/
-.dvc/tmp/
-
-# Temporary files
 .ipynb_checkpoints/
-*.log
 .env
+*.log
 
-# DVC tracked datasets
-/Customers.csv
-/SALES.csv
-/products.csv
-
-# Existing Student Placement project
+.dvc/tmp/
 student_placement_mlops/

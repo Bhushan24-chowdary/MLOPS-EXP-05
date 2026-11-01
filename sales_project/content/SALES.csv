@@ -1,6 +1,0 @@
-transaction_id,customerid,productid,quantity,discount,payment mode
-t001,1001,P101,2,5%,o
-t002,1002,P105,1,10%,c
-t003,1003,P102,3,5%,o
-t004,1004,P108,2,15%,c
-t005,1005,P103,1,2%,c

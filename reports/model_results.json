@@ -1,7 +1,0 @@
-{
-    "experiment": "Sales_Amount_Prediction",
-    "model": "RandomForestRegressor",
-    "MAE": 172032.76699999988,
-    "RMSE": 172032.76699999988,
-    "R2": NaN
-}

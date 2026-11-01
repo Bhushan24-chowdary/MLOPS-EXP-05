@@ -1,5 +1,0 @@
-outs:
-- md5: 8e38f420bd0abd98100a0fedeea28385
-  size: 439
-  hash: md5
-  path: sales_processed_pipeline.csv
