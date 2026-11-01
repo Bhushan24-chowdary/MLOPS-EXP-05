@@ -1,0 +1,5 @@
+outs:
+- md5: ea5bed939258e76834c2cb602d062b94
+  size: 361375
+  hash: md5
+  path: student_placement_clean.csv
